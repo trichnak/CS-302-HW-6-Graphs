@@ -1,0 +1,8 @@
+Reno <-> San Francisco: 218
+Reno <-> Seattle: 704
+Reno <-> Salt Lake City: 518
+Reno <-> Las Vegas: 438
+San Francisco <-> Seattle: 808
+San Francisco <-> Las Vegas: 569
+Salt Lake City <-> Seattle: 830
+Salt Lake City <-> Las Vegas: 515
